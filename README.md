@@ -31,6 +31,6 @@ No terminal do VS Code, dentro da pasta do projeto, rode:
 python arquivos/main.py
 
 O programa percorre a pasta arquivos e identifica os arquivos dos trimestres (1T2025.csv, 2T2025.csv, 3T2025.csv).
-O programa lê arquivos nos formatos CSV, TXT e XLSX. Identifica automaticamente colunas relacionadas a Despesas com Eventos/Sinistros e normaliza os dados para manter consistência nas colunas
+O programa lê arquivos nos formatos CSV, TXT e XLSX. Identifica automaticamente colunas relacionadas a Despesas com Eventos/Sinistros e normaliza os dados para manter consistência nas colunas.
 
 
