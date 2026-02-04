@@ -25,7 +25,9 @@ pip install pandas openpyxl
 
 python arquivos/main.py
 
-##  Como rodar o arquivo main.py no VS Code
+---
+
+#### Como rodar o arquivo main.py no VS Code
 
 No terminal do VS Code, dentro da pasta do projeto, rode:
 python arquivos/main.py
